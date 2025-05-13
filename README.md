@@ -1,5 +1,9 @@
 # Summarise Script Proving Grounds
 
+<p align="center">
+  <img src="./summarise.png" alt="Summarise Logo" width="200"/>
+</p>
+
 This repository serves as the development and testing environment for the `summarise.sh` Bash script. The primary goal is to robustly test the script's ability to flatten a code repository into a single text file, respecting various ignore patterns and redacting sensitive information.
 
 The finalised `summarise.sh` script is typically exported/updated to the Gist found at:
